@@ -1,0 +1,16 @@
+D:\Labs\Lab313\lab13\lab13\lab13\bin\Debug\netcoreapp2.0\lab13.deps.json
+D:\Labs\Lab313\lab13\lab13\lab13\bin\Debug\netcoreapp2.0\lab13.dll
+D:\Labs\Lab313\lab13\lab13\lab13\bin\Debug\netcoreapp2.0\ref\lab13.dll
+D:\Labs\Lab313\lab13\lab13\lab13\bin\Debug\netcoreapp2.0\lab13.pdb
+D:\Labs\Lab313\lab13\lab13\lab13\obj\Debug\netcoreapp2.0\lab13.csproj.AssemblyReference.cache
+D:\Labs\Lab313\lab13\lab13\lab13\obj\Debug\netcoreapp2.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Lab313\lab13\lab13\lab13\obj\Debug\netcoreapp2.0\App.xaml.g.cs
+D:\Labs\Lab313\lab13\lab13\lab13\obj\Debug\netcoreapp2.0\MagazinesPage.xaml.g.cs
+D:\Labs\Lab313\lab13\lab13\lab13\obj\Debug\netcoreapp2.0\MainPage.xaml.g.cs
+D:\Labs\Lab313\lab13\lab13\lab13\obj\Debug\netcoreapp2.0\lab13.AssemblyInfoInputs.cache
+D:\Labs\Lab313\lab13\lab13\lab13\obj\Debug\netcoreapp2.0\lab13.AssemblyInfo.cs
+D:\Labs\Lab313\lab13\lab13\lab13\obj\Debug\netcoreapp2.0\lab13.csproj.CoreCompileInputs.cache
+D:\Labs\Lab313\lab13\lab13\lab13\obj\Debug\netcoreapp2.0\XamlC.stamp
+D:\Labs\Lab313\lab13\lab13\lab13\obj\Debug\netcoreapp2.0\lab13.dll
+D:\Labs\Lab313\lab13\lab13\lab13\obj\Debug\netcoreapp2.0\refint\lab13.dll
+D:\Labs\Lab313\lab13\lab13\lab13\obj\Debug\netcoreapp2.0\lab13.pdb

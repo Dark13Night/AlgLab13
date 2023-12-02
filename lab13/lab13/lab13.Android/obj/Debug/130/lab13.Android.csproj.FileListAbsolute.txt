@@ -1,0 +1,3 @@
+D:\Labs\Lab313\lab13\lab13\lab13.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+D:\Labs\Lab313\lab13\lab13\lab13.Android\obj\Debug\130\build.props
+D:\Labs\Lab313\lab13\lab13\lab13.Android\obj\Debug\130\adb.props

@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "dgSpecHash": "kypTW59PdkeHAqxorQaQrn3MMQvKgbwKqy8kAH0SVjT2H3/EEFpwCoEvBZ8iBx9y7uLujKALU4JUOAMLodDvhg==",
+  "success": false,
+  "projectFilePath": "D:\\Labs\\Lab313\\lab13\\lab13\\lab13.iOS\\lab13.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Олег\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Олег\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Олег\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект lab13 несовместим с xamarinios10 (Xamarin.iOS,Version=v1.0). Проект lab13 поддерживает: netcoreapp2.0 (.NETCoreApp,Version=v2.0)",
+      "libraryId": "lab13",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект lab13 несовместим с xamarinios10 (Xamarin.iOS,Version=v1.0) / win. Проект lab13 поддерживает: netcoreapp2.0 (.NETCoreApp,Version=v2.0)",
+      "libraryId": "lab13",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект lab13 несовместим с xamarinios10 (Xamarin.iOS,Version=v1.0) / win-arm64. Проект lab13 поддерживает: netcoreapp2.0 (.NETCoreApp,Version=v2.0)",
+      "libraryId": "lab13",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-arm64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект lab13 несовместим с xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x64. Проект lab13 поддерживает: netcoreapp2.0 (.NETCoreApp,Version=v2.0)",
+      "libraryId": "lab13",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект lab13 несовместим с xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x86. Проект lab13 поддерживает: netcoreapp2.0 (.NETCoreApp,Version=v2.0)",
+      "libraryId": "lab13",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="lab13.PassengersPage">
+
+    <StackLayout>
+        <Label Text="Id" />
+        <Entry Text="{Binding MagazineID}" />
+        <Label Text="Name" />
+        <Entry Text="{Binding Name}" />
+        <StackLayout Orientation="Horizontal">
+            <Button Text="Сохранить" Clicked="SavePassenger" />
+            <Button Text="Удалить" Clicked="DeletePassenger" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
+

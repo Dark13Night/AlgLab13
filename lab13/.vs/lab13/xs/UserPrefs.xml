@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{5C46ECB9-0791-4559-A8C1-D3E31C9C3B2D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.lab13.Android PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab13/lab13/PassengersPage.xaml.cs">
+    <Files>
+      <File FileName="lab13/lab13/PassengersPage.xaml" Line="1" Column="1" />
+      <File FileName="lab13/lab13/PassengersPage.xaml.cs" Line="28" Column="25" />
+      <File FileName="lab13/lab13.Android/MainActivity.cs" Line="6" Column="18" />
+      <File FileName="lab13/lab13/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="lab13/lab13/AppDbContext.cs" Line="19" Column="116" />
+      <File FileName="lab13/lab13/App.xaml" Line="1" Column="1" />
+      <File FileName="lab13/lab13/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="lab13/lab13/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="lab13/lab13/MainPage.xaml.cs" Line="27" Column="1" />
+      <File FileName="lab13/lab13/Passenger.cs" Line="1" Column="1" />
+      <File FileName="lab13/lab13/Ticket.cs" Line="1" Column="1" />
+      <File FileName="lab13/lab13/Train.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab13" expanded="True">
+            <Node name="lab13" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="PassengersPage.xaml" expanded="True">
+                <Node name="PassengersPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.lab13.iOS FirstBuild="True" />
+</Properties>
