@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CSlab13.PageStatie" Title="Статья">
+    <StackLayout Padding="15">
+        <Label Text="Номер статьи" />
+        <Entry x:Name="EntryNameDetail"
+               x:FieldModifier="public"
+            Keyboard="Numeric" 
+            Text="{Binding Name}" 
+            Placeholder="Введите номер" 
+            PlaceholderColor="LightGray"/>
+        <Label Text="Автор" />
+        <Entry 
+            Text="{Binding NumberOfSeats}" 
+            
+            Placeholder="Введите имя автора" 
+            PlaceholderColor="LightGray"/>
+        <Label Text="Дозировка" />
+        <Entry 
+            Text="{Binding Description}" 
+            Keyboard="Numeric" 
+            Placeholder="Введите номер журнала" 
+            PlaceholderColor="LightGray"/>
+        <StackLayout Orientation="Horizontal">
+            <Frame BackgroundColor="#c7c5c5" 
+                   Margin="0,10,0,0" 
+                   Padding="10, 5, 10,5"
+                   CornerRadius="10">
+                <Button Text="Сохранить" Clicked="SaveAuditorium" TextColor="DimGray" FontSize="15"/>
+            </Frame>
+            <Frame BackgroundColor="#c7c5c5" 
+                   Margin="15,10,0,0" 
+                   Padding="10, 5, 10,5"
+                   CornerRadius="10">
+                <Button Text="Удалить" Clicked="DeleteAuditorium" TextColor="DimGray" FontSize="15"/>
+            </Frame>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <LangVersion>latest</LangVersion>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+        <DebugType>pdbonly</DebugType>
+        <DebugSymbols>true</DebugSymbols>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Data.Sqlite" Version="2.2.0" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.0" />
+        <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="PageListStaties.xaml.cs">
+        <DependentUpon>PageListStaties.xaml</DependentUpon>
+      </Compile>
+      <Compile Update="PageListMagazines.xaml.cs">
+        <DependentUpon>PageListMagazines.xaml</DependentUpon>
+      </Compile>
+      <Compile Update="PageListStatieGroups.xaml.cs">
+        <DependentUpon>PageListStatieGroups.xaml</DependentUpon>
+      </Compile>
+      <Compile Update="PageMagazine.xaml.cs">
+        <DependentUpon>PageMagazine.xaml</DependentUpon>
+      </Compile>
+      <Compile Update="PageStatieGroup.xaml.cs">
+        <DependentUpon>PageStatieGroup.xaml</DependentUpon>
+      </Compile>
+      <Compile Update="PageStatie.xaml.cs">
+        <DependentUpon>PageStatie.xaml</DependentUpon>
+      </Compile>
+    </ItemGroup>
+</Project>

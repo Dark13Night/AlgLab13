@@ -1,0 +1,81 @@
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/CSlab13.csproj.AssemblyReference.cache
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/CSlab13.AssemblyInfoInputs.cache
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/CSlab13.AssemblyInfo.cs
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/CSlab13.csproj.CoreCompileInputs.cache
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/bin/Debug/netstandard2.0/CSlab13.deps.json
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/bin/Debug/netstandard2.0/CSlab13.dll
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/bin/Debug/netstandard2.0/CSlab13.pdb
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/CSlab13.dll
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/CSlab13.pdb
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/PageAuditorium.xaml.g.cs
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/PageAuditoriumGroup.xaml.g.cs
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/PageBuilding.xaml.g.cs
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/PageListAuditoriumGroups.xaml.g.cs
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/PageListAuditoriums.xaml.g.cs
+/Users/oldmash/RiderProjects/labsC#/CSlab13/CSlab13/CSlab13/obj/Debug/netstandard2.0/PageListBuildings.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\bin\Debug\netstandard2.0\CSlab13.deps.json
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\bin\Debug\netstandard2.0\CSlab13.dll
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\bin\Debug\netstandard2.0\CSlab13.pdb
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.csproj.AssemblyReference.cache
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.AssemblyInfoInputs.cache
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.AssemblyInfo.cs
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.dll
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.pdb
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageMedecine.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageListMedecineGroups.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageListMedecines.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageListPharmacys.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageMedecineGroup.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\CSlab13-master\CSlab13\CSlab13\obj\Debug\netstandard2.0\PagePharmacy.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\bin\Debug\netstandard2.0\CSlab13.deps.json
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\bin\Debug\netstandard2.0\CSlab13.dll
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\bin\Debug\netstandard2.0\CSlab13.pdb
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.csproj.AssemblyReference.cache
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageListMedecineGroups.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageListMedecines.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageListPharmacys.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageMedecine.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageMedecineGroup.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PagePharmacy.xaml.g.cs
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.AssemblyInfoInputs.cache
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.AssemblyInfo.cs
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.dll
+C:\Users\Егор\Documents\C# - labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.pdb
+D:\Labs\lab13\CSlab13\CSlab13\bin\Debug\netstandard2.0\CSlab13.deps.json
+D:\Labs\lab13\CSlab13\CSlab13\bin\Debug\netstandard2.0\CSlab13.dll
+D:\Labs\lab13\CSlab13\CSlab13\bin\Debug\netstandard2.0\CSlab13.pdb
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.csproj.AssemblyReference.cache
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageListMedecineGroups.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageListMedecines.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageListPharmacys.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageMedecine.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageMedecineGroup.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PagePharmacy.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.AssemblyInfoInputs.cache
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.AssemblyInfo.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.csproj.CoreCompileInputs.cache
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.dll
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\CSlab13.pdb
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageListMagazines.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageListStatieGroups.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageListStaties.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageMagazine.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageStatie.xaml.g.cs
+D:\Labs\lab13\CSlab13\CSlab13\obj\Debug\netstandard2.0\PageStatieGroup.xaml.g.cs
